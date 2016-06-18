@@ -1,0 +1,1 @@
+Hello! Here is a bunch of projects I wrote to learn stuff
